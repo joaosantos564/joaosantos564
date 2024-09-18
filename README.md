@@ -20,3 +20,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosantos564&langs_count=8" alt="Top Langs" />
 </a>
 </div>
+
+<a href="jvictor.osantos@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
