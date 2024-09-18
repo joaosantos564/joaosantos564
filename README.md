@@ -21,7 +21,4 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-<a href="jvictor.osantos@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-[<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://media.licdn.com/dms/image/C4D12AQEXebTh1uC9pA/article-cover_image-shrink_600_2000/0/1645970866078?e=2147483647&v=beta&t=KspS27l1RB0BmIcauFnQHGYNcU67TDiccyPhHPODxro)">] (https://www.linkedin.com/in/joaov-olivsnts/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]([Link do Linkedin aqui](https://www.linkedin.com/in/joaov-olivsnts/))
